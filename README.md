@@ -11,7 +11,7 @@ I have raised two research questions
 ## Data and Methodology
 
 ### Data
-Following the works of (Jang & Lee, 2018; Poyser, 2017; Kavvadias, 2017 and Li et al., 2018), we grouped the drivers of the price fluctuations for cryptocurrencies in to two. These are the internal determinants and the external determinants. The internal determinants are inherent to cryptocurrencies block chain formation, a core technology of cryptocurrencies. The second group is the external determinants are related with the financial aspects of Bitcoin or any other cryptocurrencies. Hence, we have used quandl [](https://www.quandl.com/) and yahoo finance [](https://finance.yahoo.com/) to collect data. Some of the data collected are hash rate,transaction volume, market capitalizations, Difficulty , Miners revenue, USD / Major Exchange rates, VIX, S&P 500 and others. 
+Following the works of (Jang & Lee, 2018; Poyser, 2017; Kavvadias, 2017 and Li et al., 2018), we grouped the drivers of the price fluctuations for cryptocurrencies in to two. These are the internal determinants and the external determinants. The internal determinants are inherent to cryptocurrencies block chain formation, a core technology of cryptocurrencies. The second group is the external determinants are related with the financial aspects of Bitcoin or any other cryptocurrencies. Hence, we have used quandl <https://www.quandl.com> and yahoo finance <https://finance.yahoo.com> to collect data. Some of the data collected are hash rate,transaction volume, market capitalizations, Difficulty , Miners revenue, USD / Major Exchange rates, VIX, S&P 500 and others. 
 
 
 ### Methodology 
