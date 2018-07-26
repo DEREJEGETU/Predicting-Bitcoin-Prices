@@ -23,4 +23,4 @@ In this project, a step by step approach will be employed to determine the best 
   * Long Short Term Memory (LSTM) from Recurrent Neural Networks (RNN)
   * Fbprophet Model 
 
-* **Note: This notebook is just only for learning purpose and I do not advise to use it for financial decision making.** 
+ **Note: This notebook is just only for learning purpose and I do not advise to use it for financial decision making.** 
