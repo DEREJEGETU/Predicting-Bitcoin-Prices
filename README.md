@@ -1,5 +1,5 @@
 # Predicting the Price of Bitcoin : An Exploration of Different Algorithms
-*This project is a final capstone project as a member of the Nashville Software School Cohort 1 Data Science bootcamp.* 
+*This project is a final capstone project for Nashville Software School Cohort 1 Data Science bootcamp.* 
 
 ## Introduction
 Cryptocurrencies are known for their high volatility movement. They exhibit a random walk movement, which makes prediction difficult like other financial assets.  Though it is difficult to perfectly predict cryptocurrencies movement, their a high likelihood of identifying the signal and direction of the movement. The fast pace of machine learning and AI development is helping for a better prediction of the prices of financial assets including cryptocurrencies. However, as far as my knowledge no one has openly declared if they are able to make a quite accurate prediction. This inspire me to throw my stone and to learn from the process.  
