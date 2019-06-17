@@ -2,7 +2,7 @@
 *This project is a final capstone project for Nashville Software School Cohort 1 Data Science bootcamp.* 
 
 ## Introduction
-Cryptocurrencies are known for their high volatility movement. They exhibit a random walk movement, which makes prediction difficult like other financial assets.  Though it is difficult to perfectly predict cryptocurrencies movement, their a high likelihood of identifying the signal and direction of the movement. The fast pace of machine learning and AI development is helping for a better prediction of the prices of financial assets including cryptocurrencies. However, as far as my knowledge no one has openly declared if they are able to make a quite accurate prediction. This inspire me to throw my stone and to learn from the process.  
+Cryptocurrencies are known for their high price volatility. They exhibit a random walk movement, which makes prediction daily prices difficult, like other financial assets.  Though it is difficult to perfectly predict cryptocurrencies movement, their is a high likelihood of identifying the signal and direction of the movement. The fast pace of machine learning and AI development is helping for a better prediction of financial assets prices including cryptocurrencies. As far as my knowledge, to date  no one has openly declared if they  able to make a quite accurate prediction. This inspire me to throw my  stone  and to learn from the process.  
 
 ## Research Question 
 I have raised two research questions
