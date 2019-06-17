@@ -1,4 +1,4 @@
-# Predicting the Price of Bitcoin : An Exploration of Different Algorithms
+# Predicting the Price of Bitcoin : An Exploration of Different Machine Learning Algorithms
 *This project is a final capstone project for Nashville Software School Cohort 1 Data Science bootcamp.* 
 
 ## Introduction
